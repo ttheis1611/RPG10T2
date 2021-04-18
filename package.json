@@ -1,0 +1,25 @@
+{
+  "name": "rpg10t2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttheis1611/RPG10T2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttheis1611/RPG10T2/issues"
+  },
+  "homepage": "https://github.com/ttheis1611/RPG10T2#readme",
+  "dependencies": {
+    "node": "^15.14.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
